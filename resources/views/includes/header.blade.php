@@ -1,9 +1,7 @@
-<div class="navbar">
-    <div class="navbar-inner">
-        <a id="logo" href="/">Single Malt</a>
-        <ul class="nav">
-            <li><a href="/">Home</a></li>
-            <li><a href="/about">About</a></li>
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">Chris Mara's Laravel Site</a>
+        <ul class="navbar-nav">
+            <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+            <li class="nav-item"><a class="nav-link" href="/about">About</a></li>
         </ul>
-    </div>
-</div>
+</nav>
