@@ -1,6 +1,8 @@
 @extends('layouts.default')
 @section('content')
-   <p>
+
+    <div class="jumbotron">
+    <p>
        Welcome to my webpage, My name is Chris Mara, I plan on working in the Information Technologies and specializing
        in cyber security. I enjoy coding anidroid apps and playing around with simple hardware like the Raspberry Pi.
        After spending my first year as a CS major, I decided to move down to IT as I wasn't a fan of the theory work and
@@ -14,4 +16,5 @@
        I like going to Sandy Hook to see the old WWII bunkers. When things start feeling routine, I'll play paintball or
        airsoft depending on who's available.
    </p>
+    </div>
 @stop
